@@ -3,7 +3,7 @@
 2021.9 - 2023.11  전북은행 SM  그룹웨어, UC사내메신저 , 금소부시스템 개발 관리 
 2023.12 - ing  농협목우촌 종합정보시스템 , FA제품 생산 시스템 개발 관리 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihun22)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihun22)
 
 
 [!]https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
