@@ -3,7 +3,7 @@
 2021.9 - 2023.11  전북은행 SM  그룹웨어, UC사내메신저 , 금소부시스템 개발 관리 <br>
 2023.12 - ing  농협목우촌 종합정보시스템 , FA제품 생산 시스템 개발 관리 <br>
 포트폴리오 :https://jihun22.com/
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihun22)
 
 
