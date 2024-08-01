@@ -5,7 +5,7 @@
 포트폴리오 :https://jihun22.com/
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihun22&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihun22)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ik5334)](https://solved.ac/ik5334/)
+
 
 
 
