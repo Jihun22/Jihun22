@@ -24,7 +24,7 @@
  ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  	![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   	![](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
-   ![](https://img.shields.io/badge/nextdotjs%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
+   ![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   
 <!--
 **Jihun22/Jihun22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
