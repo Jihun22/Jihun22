@@ -33,15 +33,6 @@ Frontend · Backend · SI · 플랫폼 개발을 모두 경험했습니다.
 
 ---
 
-## 📊 GitHub 활동
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jihun22&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihun22&layout=compact)
-
-</div>
-
 ---
 
 ## 🛠 기술 스택
